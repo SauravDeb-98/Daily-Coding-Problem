@@ -1,5 +1,5 @@
 # Daily-Coding-Problem
-Solving Day wise coding problems in Python. Questions given by Daily Coding Problem.
+Solving Day wise coding problems in Python. Questions given by Daily Coding Problem (https://www.dailycodingproblem.com/)
 
 Day 1:  Given a list of numbers and a number k, return whether any two numbers from the list add up to k.
 
